@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SMTP_Mail_POC.props" />
+</Project>

@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "SMTP_Mail_POC.Controllers.EmailController",
+    "Method": "SendEmail",
+    "RelativePath": "api/Email",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SMTP_Mail_POC.Models.EmailDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

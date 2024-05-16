@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SMTP_Mail_POC.props" />
+</Project>

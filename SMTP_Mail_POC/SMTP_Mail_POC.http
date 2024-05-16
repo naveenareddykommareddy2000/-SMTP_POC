@@ -1,0 +1,6 @@
+@SMTP_Mail_POC_HostAddress = http://localhost:5050
+
+GET {{SMTP_Mail_POC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

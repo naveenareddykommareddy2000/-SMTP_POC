@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XudPTCBLzzH8AYZT2j1TNdS+nXilos5cl9F/JexltPQ=",
+  "Source": "SMTP_Mail_POC",
+  "BasePath": "_content/SMTP_Mail_POC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
